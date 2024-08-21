@@ -37,22 +37,18 @@ Explore how I have been applying my skills in various technologies and domains t
 - Django
 - Django REST Framework
 - Flask
+- FastAPI
 
 ### **Databases:**
 - PostgreSQL
-- Cassandra
 - MySQL
+- Cassandra
+- MongoDB
 
 ### **DevOps & Cloud:**
 - Docker
 - AWS
-
----
-
-## 📈 Current Focus:
-- Learning **MLOps**
-- Exploring **Serverless Architectures** on AWS
-
+- Azure
 ---
 
 ## 📊 Contribution Activity:
