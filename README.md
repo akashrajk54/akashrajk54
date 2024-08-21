@@ -15,14 +15,14 @@ Explore how I have been applying my skills in various technologies and domains t
 
 - **Drone Flight Planner**  
   *Python, Django REST Framework*  
-  Created a web application for generating optimized drone flight paths using polygon coordinates. Includes custom image overlap percentage and efficient path generation.
+  Developed a web application for generating optimized drone flight paths using polygon coordinates. Includes custom image overlap percentage and efficient path generation.
 
 - **DonateX**  
-  *Python, Django*  
+  *Python, Django REST Framework, Docker*  
   Implemented a charitable donation system with secure authentication and online donation features. Visualized donation history with an advanced dashboard.
 
 - **Movie Collection App**  
-  *Python, Django REST Framework*  
+  *Python, Django REST Framework, Handled Flaky API*  
   Built a web application that enables users to browse and manage movie collections. Integrated with third-party APIs to fetch movie data.
 
 ---
