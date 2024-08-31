@@ -29,10 +29,7 @@ Explore how I have been applying my skills in various technologies and domains t
 
 ## 🛠 My Tech Stack:
 ### **Languages:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
 ### **Frameworks & Libraries:**
 - ![Django](https://img.shields.io/badge/Django-092D26?style=flat&logo=django&logoColor=ffffff)
