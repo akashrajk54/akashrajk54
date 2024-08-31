@@ -29,27 +29,27 @@ Explore how I have been applying my skills in various technologies and domains t
 
 ## 🛠 My Tech Stack:
 ### **Languages:**
-- Python
-- JavaScript
-- https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465
-- SQL
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
 ### **Frameworks & Libraries:**
-- Django
-- Django REST Framework
-- Flask
-- FastAPI
+- ![Django](https://img.shields.io/badge/Django-092D26?style=flat&logo=django&logoColor=ffffff)
+- ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-000000?style=flat&logo=django&logoColor=ffffff)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
 
 ### **Databases:**
-- PostgreSQL
-- MySQL
-- Cassandra
-- MongoDB
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff)
+- ![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=flat&logo=mysql&logoColor=ffffff)
+- ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=ffffff)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
 ### **DevOps & Cloud:**
-- Docker
-- AWS
-- Azure
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=ffffff)
 ---
 
 ## 📊 Contribution Activity:
