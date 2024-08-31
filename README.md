@@ -29,24 +29,16 @@ Explore how I have been applying my skills in various technologies and domains t
 
 ## 🛠 My Tech Stack:
 ### **Languages:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
 ### **Frameworks & Libraries:**
-- ![Django](https://img.shields.io/badge/Django-092D26?style=flat&logo=django&logoColor=ffffff)
-- ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-000000?style=flat&logo=django&logoColor=ffffff)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-092D26?style=flat&logo=django&logoColor=ffffff) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-000000?style=flat&logo=django&logoColor=ffffff) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
 
 ### **Databases:**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff)
-- ![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=flat&logo=mysql&logoColor=ffffff)
-- ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=ffffff)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=flat&logo=mysql&logoColor=ffffff) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
 ### **DevOps & Cloud:**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=ffffff)
 ---
 
 ## 📊 Contribution Activity:
