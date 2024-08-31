@@ -12,7 +12,8 @@ Explore how I have been applying my skills in various technologies and domains t
 
 - **E-Commerce Platform Development**
   * Python, Django, MySQL, Redis, StripePayment Gateway and Kafka*
-Developed a microservices-based E-commerce platform from scratch. Led the development of core features like product catalog management, payment integration, order processing, and notifications. Implemented an event-driven email service for seamless communication between platform services. Enhanced product discovery with powerful sorting and filtering using ElasticSearch. Significantly improved API response times from 500 ms to 50 ms by implementing effective caching strategies.
+
+  Developed a microservices-based E-commerce platform from scratch. Led the development of core features like product catalog management, payment integration, order processing, and notifications. Implemented an event-driven email service for seamless communication between platform services. Enhanced product discovery with powerful sorting and filtering using ElasticSearch. Significantly improved API response times from 500 ms to 50 ms by implementing effective caching strategies.
 
 - **Media Management API**  
   *Python, Django*  
