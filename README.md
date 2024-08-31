@@ -4,11 +4,16 @@
 [Email](mailto:akashrajk54@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akash--bhandari/) · [GitHub](https://github.com/akashrajk54)
 
 ---
-
-## 🚀 Embracing education 🎓, self-learning 📚, and hands-on experience 🧪
+## 🌟 Passionate Technologist with a Growth Mindset 🌱
+Leveraging years of experience to drive innovation and excellence in software development. Explore my journey through impactful projects and advanced technologies.
 Explore how I have been applying my skills in various technologies and domains through these hands-on projects:
 
 ### Featured Projects:
+
+- **E-Commerce Platform Development**
+  *Microservices Architecture*
+  Developed a microservices-based E-commerce platform from scratch. Led the development of core features like product catalog management, payment integration, order processing, and notifications. Implemented an event-driven email service for seamless communication between platform services. Enhanced product discovery with powerful sorting and filtering using ElasticSearch. Significantly improved API response times from 500 ms to 50 ms by implementing effective caching strategies.
+
 - **Media Management API**  
   *Python, Django*  
   Developed a Django-based REST API service for video file management, allowing users to upload, trim, and merge video files. The service supports configurable size and duration limits and video link sharing.
