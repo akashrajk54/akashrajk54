@@ -7,7 +7,7 @@
 ## 🌟 Passionate Technologist with a Growth Mindset 🌱
 Leveraging years of experience to drive innovation and excellence in software development. 
 
-## 🛠 My Tech Stack:
+## 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
