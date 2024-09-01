@@ -15,6 +15,8 @@ Leveraging years of experience to drive innovation and excellence in software de
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=flat&logo=mysql&logoColor=ffffff) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=ffffff) 
+ 
 ### Featured Projects: 
 Explore my journey through impactful projects and advanced technologies. Explore how I have been applying my skills in various technologies and domains through these hands-on projects: 
 
@@ -38,10 +40,6 @@ Explore my journey through impactful projects and advanced technologies. Explore
   *Python, Django REST Framework, Handled Flaky API*  
   Built a web application that enables users to browse and manage movie collections. Integrated with third-party APIs to fetch movie data.
 
----
-
-### **DevOps & Cloud:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=ffffff)
 ---
 
 ## 📊 Contribution Activity:
