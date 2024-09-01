@@ -1,5 +1,5 @@
 # 🚀 Akash Bhandari
-**Software Developer**  
+**Senior Software Developer**  
 `Sigma Solve Pvt Ltd - Ahmedabad`  
 [Email](mailto:akashrajk54@gmail.com) · [LinkedIn](https://www.linkedin.com/in/akash--bhandari/) · [GitHub](https://github.com/akashrajk54)
 
